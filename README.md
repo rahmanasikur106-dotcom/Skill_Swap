@@ -11,11 +11,11 @@ SkillSwap is a web-based platform where people can **exchange skills with each o
 | Name | Role | Component |
 |------|------|-----------|
 | Asikur Rahman | Developer | **Chat & Messaging** |
-| Imran Hossain | Developer | User and Authentication |
-| Kritika Singh | Scrum Master | Search and Matchmaking |
-| Radiah Anan | Developer | Skill Management |
-| Jiasmin | Developer | Engagement and Feedback |
-| Sudikshya | Developer | Session Management |
+| Imran Hossain | Developer | Sessions |
+| Kritika Singh | Scrum Master | User Profiles |
+| Radiah Anan | Developer | Matchmaking |
+| Jiasmin | Developer | Events |
+| Sudikshya | Developer | Ratings & Feedback |
 
 ---
 
